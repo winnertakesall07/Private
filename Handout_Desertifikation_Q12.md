@@ -1,32 +1,12 @@
-# Strategien der Desertifikationsbekämpfung
+![Image 1 Caption](assets/handout/image1.png)
+*Image 1 Source Note*
 
-## Einleitung
-Die Desertifikation ist ein schwerwiegendes Problem, das viele Regionen der Welt betrifft. Die Bekämpfung der Desertifikation erfordert umfassende Strategien, die sowohl lokale als auch internationale Maßnahmen umfassen.
+![Image 2 Caption](assets/handout/image2.png)
+*Image 2 Source Note*
 
-## Strategien zur Bekämpfung der Desertifikation
+![Image 3 Caption](assets/handout/image3.png)
+*Image 3 Source Note*
 
-### 1. Aufforstung und Wiederaufforstung
-- Pflanzen von Bäumen und Sträuchern zur Verbesserung der Bodenqualität und zum Schutz vor Erosion.
-- Referenzgrafik: ![Grafik 1](link_zur_grafik_1)
+# Handout on Desertification
 
-### 2. Nachhaltige Landwirtschaft
-- Einführung nachhaltiger Anbaumethoden, die den Boden schützen und die Produktivität erhöhen.
-- Referenzgrafik: ![Grafik 2](link_zur_grafik_2)
-
-### 3. Wasserbewirtschaftung
-- Effiziente Nutzung und Verwaltung von Wasserressourcen zur Unterstützung landwirtschaftlicher Aktivitäten.
-- Referenzgrafik: ![Grafik 3](link_zur_grafik_3)
-
-### 4. Bildung und Aufklärung
-- Sensibilisierung der Gemeinschaft für die Auswirkungen der Desertifikation und Schulung in nachhaltigen Praktiken.
-- Referenzgrafik: ![Grafik 4](link_zur_grafik_4)
-
-## Fazit
-Die Bekämpfung der Desertifikation erfordert kollektive Anstrengungen und innovative Ansätze. Indem wir die oben genannten Strategien umsetzen, können wir dazu beitragen, die Gesundheit unserer Erde zu bewahren.
-
-## Quellenverzeichnis
-1. [Quellenangabe 1]
-2. [Quellenangabe 2] 
-3. [Quellenangabe 3] 
-
----
+This handout includes graphics that provide additional information on desertification issues.
